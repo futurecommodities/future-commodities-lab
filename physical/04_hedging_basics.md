@@ -2,8 +2,7 @@
 
 This document explains the **purpose, mechanics, and limitations of hedging** in physical commodity trading.
 
-Hedging is not about eliminating risk.  
-It is about **transforming risk into a form the desk can survive and manage**.
+Hedging is not about eliminating risk. It is about **transforming risk into a form the desk can survive and manage**.
 
 ---
 
