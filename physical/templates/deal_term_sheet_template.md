@@ -1,4 +1,4 @@
-# Deal Term Sheet (Educational Template)
+# Deal Term Sheet (for educational use)
 
 ## Parties
 - Seller:
