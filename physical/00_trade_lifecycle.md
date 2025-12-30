@@ -1,4 +1,4 @@
-# Physical Commodity Trade Lifecycle (End-to-End)
+# Physical Commodity Trade Lifecycle
 
 This document explains the **standard lifecycle of a physical commodity trade**, from first contact to final settlement and claims.  
 It is written to be **product-agnostic** (energy, metals, agriculture) and focuses on **process, control points, and risks**, not legal advice.
