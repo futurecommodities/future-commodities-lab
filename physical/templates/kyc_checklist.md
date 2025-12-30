@@ -1,8 +1,4 @@
-# KYC Checklist – 
-# KYC Checklist  
-**Physical Commodity Trading**
-
----
+# KYC Checklist
 
 ## 1. Counterparty Identification
 
@@ -106,7 +102,7 @@ All KYC materials shall be retained in accordance with internal policy and appli
 
 ---
 
-## Jurisdictional Compliance Addendum  
+# Jurisdictional Compliance Addendum  
 **UK / EU / UAE**
 
 This addendum supplements the standard KYC checklist and applies jurisdiction-specific regulatory and compliance requirements for physical commodity trading.
