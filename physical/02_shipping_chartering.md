@@ -20,7 +20,7 @@ A profitable trade can become a loss **purely due to shipping execution**.
 
 ---
 
-## 2. Shipping Responsibility by Incoterm (Context)
+## 2. Shipping Responsibility by Incoterm
 
 Before discussing chartering, always clarify:
 - Who controls freight
