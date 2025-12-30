@@ -102,3 +102,125 @@ Neutralize outright price movements.
 flowchart LR
   P[Physical Position] -->|Price Exposure| M[Market Price]
   H[Paper Hedge] -->|Offset| M
+
+
+## Proxy Hedge
+
+Used when **no exact futures contract exists** for the physical exposure.
+
+### Examples
+- Hedging jet fuel with gasoil futures  
+- Hedging regional coal with global benchmarks  
+
+Proxy hedges introduce **basis risk by design**. They reduce flat price exposure but create residual risk that must be monitored and priced.
+
+---
+
+## 6. Timing Risk and Pricing Periods
+
+Physical trades often price over:
+- A future pricing window  
+- An average of daily prices  
+- A specific settlement date  
+
+This creates **timing risk** when hedge execution does not align perfectly with the pricing mechanism.
+
+```mermaid
+flowchart LR
+  A[Physical Exposure Period] --> B[Pricing Window]
+  B --> C[Final Price]
+  H[Hedge Execution] -->|May Not Align| B
+
+
+If hedge timing does not match pricing timing, **residual exposure remains**, even when the trade appears fully hedged.
+
+---
+
+## 7. Volume Mismatch and Tolerance
+
+Physical quantities are rarely exact due to:
+- Loading tolerances  
+- Measurement error  
+- Losses and gains in transit  
+
+Hedges are typically placed on **expected volumes**, creating:
+- Over-hedge risk  
+- Under-hedge risk  
+
+Volume risk must be **monitored and adjusted dynamically** throughout execution.
+
+---
+
+## 8. Basis Risk: The Residual That Matters
+
+Basis risk arises from:
+- Product mismatch  
+- Location mismatch  
+- Timing mismatch  
+- Quality mismatch  
+
+It is the **dominant risk** in most hedged physical trades.
+
+Professional desks:
+- Measure basis historically  
+- Price basis volatility explicitly  
+- Avoid assuming basis is stable  
+
+Ignoring basis risk is equivalent to **assuming the hedge will work perfectly under all conditions**.
+
+---
+
+## 9. Hedging and Cash Flow
+
+Hedges introduce:
+- Margin calls  
+- Collateral requirements  
+- Liquidity stress during volatility  
+
+A hedged trade can fail due to **cash flow pressure**, even if it is economically sound.
+
+Hedging must be planned alongside **working capital management**, not treated as a separate decision.
+
+---
+
+## 10. Common Hedging Failure Modes
+
+- Hedging after price moves  
+- Ignoring basis risk  
+- Mismatching hedge tenor and exposure  
+- Treating hedging as an afterthought  
+- Separating trading and risk teams  
+
+Most hedge losses result from **poor process**, not bad models.
+
+---
+
+## 11. Best Practices for Physical Traders
+
+### Before Trading
+- Define exposure clearly  
+- Identify appropriate hedge instruments  
+- Stress-test basis and cash flow  
+
+### During Execution
+- Monitor exposure daily  
+- Adjust hedge volumes as reality evolves  
+- Communicate across desks  
+
+### After Completion
+- Reconcile physical and paper PnL  
+- Attribute residual PnL to specific risks  
+- Feed insights back into pricing  
+
+---
+
+## Summary
+
+Hedging does not remove uncertainty.  
+It **moves uncertainty into places where discipline matters**.
+
+Successful physical trading requires treating hedging as:
+- A core part of trade structuring  
+- A dynamic process  
+- A source of insight, not comfort  
+
