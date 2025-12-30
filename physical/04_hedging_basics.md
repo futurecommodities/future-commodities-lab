@@ -102,7 +102,7 @@ Neutralize outright price movements.
 flowchart LR
   P[Physical Position] -->|Price Exposure| M[Market Price]
   H[Paper Hedge] -->|Offset| M
-
+```
 
 ## Proxy Hedge
 
@@ -130,7 +130,7 @@ flowchart LR
   A[Physical Exposure Period] --> B[Pricing Window]
   B --> C[Final Price]
   H[Hedge Execution] -->|May Not Align| B
-
+```
 
 If hedge timing does not match pricing timing, **residual exposure remains**, even when the trade appears fully hedged.
 
