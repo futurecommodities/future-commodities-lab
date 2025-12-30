@@ -4,6 +4,20 @@ This document explains the **standard lifecycle of a physical commodity trade**,
 It is written to be **product-agnostic** (energy, metals, agriculture) and focuses on **process, control points, and risks**, not legal advice.
 
 ---
+## 0. Lifecycle Overview (Flow)
+
+```mermaid
+flowchart LR
+  A[Origination] --> B[Negotiation]
+  B --> C[Contract Formation]
+  C --> D[Pre-Shipment Execution]
+  D --> E[Shipment & Delivery]
+  E --> F[Pricing Finalization]
+  F --> G[Invoicing & Payment]
+  G --> H[Claims & Reconciliation]
+  H --> I[Hedge Close-Out & PnL Attribution]
+  I --> J[Trade Close & Review]
+---
 
 ## 1. Market Initiation and Deal Origination
 
