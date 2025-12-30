@@ -244,10 +244,4 @@ Risk is rarely concentrated in price alone. It accumulates across **logistics, d
 
 Understanding the full lifecycle is essential before attempting to optimize or automate any single component.
 
----
-
-## Next Documents
-- `01_incoterms_payment.md`
-- `02_shipping_chartering.md`
-- `04_hedging_basics.md`
 
