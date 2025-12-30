@@ -84,9 +84,6 @@ Chartering is the process of **renting a vessel** to transport cargo.
 
 There are two dominant charter types in commodity trading.
 
----
-
-## 5. Voyage Charter
 
 ### What It Is
 - Vessel hired for a **single voyage**
