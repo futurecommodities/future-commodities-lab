@@ -4,6 +4,7 @@ This document explains the **standard lifecycle of a physical commodity trade**,
 It is written to be **product-agnostic** (energy, metals, agriculture) and focuses on **process, control points, and risks**, not legal advice.
 
 ---
+
 ## 0. Lifecycle Overview (Flow)
 
 ```mermaid
