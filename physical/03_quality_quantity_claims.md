@@ -121,8 +121,7 @@ Failure to align commercial assumptions with these definitions is a frequent cau
 - Reflects received quantity and quality
 - Used to assess losses, contamination, or degradation
 
-Differences between load and discharge are expected.  
-The dispute is about **who bears them**.
+Differences between load and discharge are expected. The dispute is about **who bears them**.
 
 ---
 
@@ -156,4 +155,85 @@ flowchart LR
   C --> D[Evidence Submission]
   D --> E[Negotiation]
   E --> F[Settlement or Arbitration]
+```
 
+## Key Steps
+
+- Identify deviation  
+- Notify counterparty within the contractual **time bar**  
+- Compile supporting evidence  
+- Negotiate commercially  
+- Escalate if unresolved  
+
+Missing a deadline can **invalidate an otherwise valid claim**.
+
+---
+
+## 8. Evidence: What Actually Matters
+
+Successful claims are built on **documentation, not arguments**.
+
+Typical evidence includes:
+- Inspection certificates  
+- Statements of Facts  
+- Bills of Lading  
+- Surveyor reports  
+- Photographs and operational logs  
+- Correspondence timeline  
+
+The **burden of proof** often sits with the claimant.
+
+---
+
+## 9. Interaction with Pricing and Hedging
+
+Quality and quantity outcomes affect:
+- Final price adjustments  
+- Delivered cost  
+- Hedge reconciliation  
+
+### Example
+- A quality penalty reduces the invoice value  
+- The hedge is closed at the expected flat price  
+- The resulting PnL shortfall appears “unexplained” unless attributed correctly  
+
+Claims should be **included in PnL attribution**, not treated as exceptions.
+
+---
+
+## 10. Common Failure Modes
+
+- Vague quality specifications  
+- Sampling method not clearly defined  
+- Late claim notification  
+- Over-reliance on counterparties’ inspectors  
+- Treating claims as back-office issues  
+
+Most claim losses originate **before the trade is executed**, not after.
+
+---
+
+## 11. Best Practices for Trading Desks
+
+### Before Trading
+- Specify sampling and analysis methods clearly  
+- Understand measurement error ranges  
+- Price in expected losses and penalties  
+
+### During Execution
+- Monitor the inspection process actively  
+- Maintain independent records  
+- Coordinate operations, trading, and risk teams  
+
+### After Delivery
+- Review inspection results immediately  
+- Track claim deadlines rigorously  
+- Attribute claim outcomes to trade economics  
+
+---
+
+## Summary
+
+Quality and quantity are not administrative details. They are **core economic variables** in physical commodity trading.
+
+Claims management is not about conflict. It is about ensuring that **commercial intent survives physical reality**.
